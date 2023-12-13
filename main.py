@@ -20,3 +20,5 @@ elif op == "/":
     print(num1 / num2)
 
 
+if __name__ == "__main__":
+    True
